@@ -45,7 +45,7 @@ start dateTime  
 end dateTime   
 jobProfile
 Education 
-Education Level(BACHELOR / MASTER / DIPLOMA / M.PHIL / DOCTORAL)
+Education Level(BACHELOR / MASTER / DIPLOMA / DOC)
 specialization(Course Name) 
 institute  
 courseType(Full Time / Part) 
