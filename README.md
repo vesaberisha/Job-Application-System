@@ -1,10 +1,4 @@
 # Job-Application-System
-#### An App,full implementation using oops and mysql and algorithms,that helps job seekers and job providers 
-
-## To run this project:
-   * Clone this Project in your local system.
-   * install java(jdk) from official website.
-   * Open the terminal from the cloned project folder,then run.
 
 ## Features
 #### Job Seekers
