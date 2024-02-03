@@ -1,5 +1,6 @@
 # Job-Application-System
 Functions
+
 	Log in(name,email,password) 
 	
 	Log out
